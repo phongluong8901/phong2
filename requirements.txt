@@ -1,0 +1,9 @@
+streamlit
+requests
+pandas
+streamlit-aggrid
+cryptography
+openpyxl
+xlsxwriter
+folium
+streamlit-folium
